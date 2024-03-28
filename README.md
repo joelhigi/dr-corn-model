@@ -9,7 +9,7 @@ To get started, install the dependencies that are needed to run the project. The
 pip install -r requirements.txt
 ```
 
-This project relies on (Smaranjit Ghose)[https://www.kaggle.com/smaranjitghose] 's (Maize Leaf Disease Dataset)[https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset] from (Kaggle)[https://www.kaggle.com]. To train a model, the images must be downloaded and stored inside the dataset directory under the appropriate sub-directories.
+This project relies on [Smaranjit Ghose](https://www.kaggle.com/smaranjitghose) 's [Maize Leaf Disease Dataset](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset) from [Kaggle](https://www.kaggle.com). To train a model, the images must be downloaded and stored inside the dataset directory under the appropriate sub-directories.
 
 ## 1. Training the model
 Navigate to the project directory in your terminal, then run
